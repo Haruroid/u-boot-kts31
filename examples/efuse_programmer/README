@@ -1,0 +1,3 @@
+1. read aes_128bit_key_1.bin aes_128bit_key_3.bin aes_128bit_seed.bin rsa_pub_fw_rev.bin rsa_pub_tee_rev.bin aes_128bit_key_2.bin aes_128bit_key.bin rsa_pub_rev.bin
+   and obfuscating it inside the programmer.
+2. folder location : uboot/examples/efuse_programmer
